@@ -25,3 +25,4 @@ Accessing this expansive dataset was made possible through Kaggle, where it was 
 
 Image Resizing & Masking : The team undertook the standardization of image resolution to 256x256 pixels, a strategic move aimed at overcoming the obstacle posed by disparate image sizes. This standardization holds pivotal importance in ensuring uniformity during image processing and the subsequent training phases of the machine learning model. To augment the dataset, an additional approach involved the generation of supplementary data through image masking. This involved the application of a “mask” to images extracted from the dataset, selectively covering specific areas of the image to create variations and expand the dataset.
 
+![Image](https://github.com/sa44827/Advanced-Machine-Learning-Project/blob/b881a430ab719bb3ff053fbf4195014e6cd44a66/images/image1.webp)
