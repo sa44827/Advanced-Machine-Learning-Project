@@ -53,7 +53,7 @@ The Deep network is able to automatically learn hierarchical representations of 
 
 ![Image4](images/image4.webp)
 
-## Result
+# Result
 ## Key Findings and Accuracy Metrics
 
 Our Convolutional Neural Network models excelled in accurately determining hotel identities from a variety of image inputs. They adeptly navigated through the challenges posed by different image qualities and camera angles, effectively identifying unique hotel characteristics. This resulted in a notably high success rate in correct hotel identifications. We had an accuracy high of 96 percent.
