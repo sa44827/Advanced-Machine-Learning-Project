@@ -1,4 +1,4 @@
-# Advanced-Machine-Learning-Project
+# Hotel Identification for Human Trafficking Investigations
 
 Project by Nishant Kushwaha, Spandan Pal, David Gong, Sharan Arora and Mansi Sharma​​
 
